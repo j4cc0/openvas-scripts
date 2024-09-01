@@ -15,7 +15,8 @@ Edit `create_target.conf`, then run
 
 	./create_target.sh
 
-Next, hop over to the webinterface (https://127.0.0.1:9392) and log in. Check if portlist and target are created. Inspect `openvas-feedsync.sh` as it contains fix-ups that might not be needed anymore. Then run
+Next, hop over to the webinterface (https://127.0.0.1:9392) and log in. Check if portlist and target are created.
+After that, inspect `openvas-feedsync.sh` as it contains fix-ups that might not be needed anymore. Then run
 
 	./openvas-feedsync.sh
 
