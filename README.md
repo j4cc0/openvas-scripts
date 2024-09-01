@@ -7,11 +7,11 @@ Install OpenVAS (packages and dependencies may follow, make sure to have some di
 	gvm-setup
 	gvm-check-setup
 
-Edit create_portlist.conf, then run
+Edit `create_portlist.conf`, then run
 
 	./create_portlist.sh
 
-Edit create_target.conf, then run
+Edit `create_target.conf`, then run
 
 	./create_target.sh
 
